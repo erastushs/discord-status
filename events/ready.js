@@ -14,9 +14,7 @@ module.exports = async(client) => {
       
     .setType(config.type)
     .setApplicationId(config.applicationid)
-    .setAssetsLargeImage(large.id)
-
-.setAssetsSmallImage(small.id)   
+    .setAssetsLargeImage(large.id) 
       .setAssetsLargeText(large.name)
       
     .setState(config.description)

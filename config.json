@@ -1,10 +1,11 @@
 { 
 	"applicationid":"977684646504595496", 
- 	"name":"aaa",
- 	"head":"a",
- 	"description":"aaa",
- 	"imagename":"1145723",
-  "smallimgname": "1145723",
+ 	"name":"REAL LIFE",
+ 	"head":"---------------",
+ 	"description":"Touch a Grass",
+ 	"imagename":"touch_a_grass",
+  "smallimgname": "touch_a_grass",
+  "largetext": "HIDUP ITU BERAT",
   "status": "dnd",
- 	"type":"WATCHING"
+ 	"type":"PLAYING"
 }
